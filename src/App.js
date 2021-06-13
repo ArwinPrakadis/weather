@@ -1,9 +1,12 @@
 import "./App.css";
+import 'bootstrap/dist/css/bootstrap.min.css'
 import React from 'react'
 import { Component } from 'react'
 import Title from './components/Title'
 import Form from './components/form'
 import Weather from './components/weather'
+//import App from './App'
+
 const API ="506f58a479f785dab4c2dc0e7a44f73e";
 
 class App extends Component {

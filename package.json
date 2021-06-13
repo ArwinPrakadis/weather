@@ -1,6 +1,7 @@
 {
   "name": "weather",
   "version": "0.1.0",
+  "homepage":"http://arwin.unaux.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
